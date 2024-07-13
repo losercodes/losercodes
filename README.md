@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=losercodes&color=blue)<br>
+![](https://komarev.com/ghpvc/?username=losercodes&color=Red)<br>
 ### About me:
 - 😄 Fun fact: I'm a Full Stack Developer, worked in Replit
 - 🔭 I’m looking to collaborate on commercial projects and startups
