@@ -112,7 +112,6 @@ const aman: Developer = {
 </div>
 
 <div align="center">
-  <img src="https://github.com/losercodes/losercodes/blob/output/github-contribution-grid-snake-dark.svg" alt="🐍 Snake Game" />
 </div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
