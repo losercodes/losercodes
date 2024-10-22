@@ -6,7 +6,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/VxANS89.jpg" width="400px" alt="Anime Developer" />
+  <img src="https://imgur.com/gallery/code-suck-nA5zCAR" width="400px" alt="Anime Developer" />
   <br><br>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=losercodes&label=Profile%20Views&color=6B72E1&style=for-the-badge)](https://github.com/losercodes)
