@@ -13,36 +13,37 @@
 <img src="https://skillicons.dev/icons?i=tailwind,mongodb,postgres,firebase,redis,docker&theme=dark" />
 
 ## ⚔️ Identity Fragment
-```typescript
-interface DigitalEntity {
-  designation: string;
-  classification: string;
-  initialization: number;
-  codebase: string[];
-  capabilities: {
-    reality_manipulation: string[];
-    system_core: string[];
-    data_nexus: string[];
-    quantum_ops: string[];
-  };
-  current_directive: string;
-  encrypted_message: string;
-}
+```
+class DigitalEntity:
+    def __init__(self):
+        self.designation = "Aman_0x457"
+        self.class_type = "Reality Engineer"
+        self.system_init = 2020
+        
+        # Core Protocols
+        self.languages = [
+            "JavaScript", "Python",
+            "Java", "TypeScript"
+        ]
+        
+        # Matrix Capabilities
+        self.reality_bending = {
+            "frontend": ["React", "Next.js", "Tailwind", "Material UI"],
+            "backend": ["Node.js", "Express", "Django", "FastAPI"],
+            "data_realm": ["MongoDB", "PostgreSQL", "Redis"],
+            "quantum_ops": ["Docker", "GitHub Actions", "Vercel", "AWS"]
+        }
+        
+        # Current Objectives
+        self.prime_directive = "Architecting digital realities through quantum code manipulation"
+        self.encrypted_msg = "In the depths of the digital void, we create worlds..."
 
-const shadow_walker: DigitalEntity = {
-  designation: "Aman_0x457",
-  classification: "Reality Engineer",
-  initialization: 2020,
-  codebase: ["TypeScript", "JavaScript", "Python", "Java"],
-  capabilities: {
-    reality_manipulation: ["React", "Next.js", "Tailwind CSS", "Material UI"],
-    system_core: ["Node.js", "Express", "Django", "FastAPI"],
-    data_nexus: ["MongoDB", "PostgreSQL", "Redis"],
-    quantum_ops: ["Docker", "GitHub Actions", "Vercel", "AWS"],
-  },
-  current_directive: "Architecting digital realities through quantum code manipulation",
-  encrypted_message: "In the depths of the digital void, we create worlds..."
-};
+    def execute_protocol(self):
+        return "[SYSTEM ONLINE] Neural networks initialized... Reality manipulation enabled."
+
+# Initialize Digital Entity
+shadow_walker = DigitalEntity()
+shadow_walker.execute_protocol()
 ```
 
 ## 🎯 Active Protocols
