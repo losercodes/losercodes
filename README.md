@@ -1,65 +1,69 @@
+# Hi there, I'm losercodes! 👋
 <div align="center">
-
-```
-01001000 01000101 01001100 01001100  01010111 01001111 01010010 01001100 01000100
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2000&pause=1000&color=FF0066&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Dev;%7B++%7D)](https://git.io/typing-svg)
-
-<details>
-<summary>⚡ SYSTEM STATUS</summary>
-<br>
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=toxicdev&label=System%20Infiltrations&color=ff0066&style=for-the-badge)](https://github.com/toxicdev)
-[![GitHub followers](https://img.shields.io/github/followers/toxicdev?label=Cyber%20Cult&style=for-the-badge&color=ff0066)](https://github.com/toxicdev)
-</details>
-
-```bash
-$ whoami
-> Code is my medium; the future is my canvas.
-```
-
-## ⚡ ARSENAL
-<div align="center">
-<img src="https://skillicons.dev/icons?i=rust,cpp,assembly,linux,bash,vim&theme=dark" />
-<br>
-<img src="https://skillicons.dev/icons?i=kubernetes,tensorflow,aws,nginx,grafana&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Code+is+my+medium;The+future+is+my+canvas" alt="Typing SVG" />
 </div>
 
-## 🎯 ACTIVE PROTOCOLS
-```cpp
-class Exploits {
-private:
-    vector<string> current_missions = {
-        "☠️  Breaking Production Systems for Fun",
-        "🧪  Crafting Forbidden Algorithms",
-        "👻  Building Digital Weapons",
-        "💀  Mastering System Corruption"
-    };
-public:
-    string contact = "void@corrupted.sys";
+## 🌟 About Me
+
+```javascript
+const aboutMe = {
+    name: 'losercodes',
+    location: '🌍 Earth',
+    roles: [ Developer ],
+    languages: ['JavaScript', 'Python'],
+    currentFocus: 'Being Lazy',
+    funFact: 'I turn my lust in to spritual code ☕'
 };
 ```
 
-## 🕸️ NEURAL LINKS
+## 🚀 My Stats
 <div align="center">
-  
-[![GitHub](https://img.shields.io/badge/GitHub-ff0066?style=for-the-badge&logo=github&logoColor=black)](https://github.com/toxicdev)
-[![Discord](https://img.shields.io/badge/Discord-ff0066?style=for-the-badge&logo=discord&logoColor=black)](https://discord.gg/toxicdev)
-[![Matrix](https://img.shields.io/badge/Matrix-ff0066?style=for-the-badge&logo=matrix&logoColor=black)](https://matrix.to/#/@toxicdev:matrix.org)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=losercodes&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+  <br/>
+  <p style="font-size: 16px; color: #00FF00; font-weight: bold;">"Code your future, break boundaries."</p>
 </div>
 
+## 💻 Technologies & Tools
 
-<details>
-<summary>🏆 BREACH LOG</summary>
-<br>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+
+## 🎯 Current Projects
+
+- 🔥 Building awesome web applications
+- 📚 Learning new programming languages
+- 🌐 Contributing to open source
+- 🤖 Exploring AI/ML
+
+## 📫 Connect With Me
+
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=toxicdev&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
-</details>
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/losercodes)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin)](https://github.com/amanxxpandey)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](Your-Twitter-URL)
 
+</div>
+
+## 📊 Weekly Coding Stats
+
+```text
+JavaScript   12 hrs 30 mins  ██████████░░░░░░░░░  50%
+Python       6 hrs 15 mins   █████░░░░░░░░░░░░░░  25%
+React        3 hrs 45 mins   ███░░░░░░░░░░░░░░░░  15%
+Other        2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░  10%
 ```
-CONNECTION TERMINATED
-```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=losercodes&color=blueviolet" alt="Profile views" />
+</div>
+
+---
+
+<div align="center">
+  <i>⚡ "Code is God language Where we can contribute by Innovating new things"</i>
 </div>
